@@ -34,8 +34,8 @@ client.on('ready', async () => {
   setInterval(() => {
     const moment = require('moment');
     const created = moment().format('YYYY-MM-DD HH:mm:ss ');
-    const change = ['https://cdn.discordapp.com/attachments/1139566233855987824/1210206515101696000/omserver.gif?ex=65e9b7a5&is=65d742a5&hm=abb3b4bb5823b58800af5b55c3ed426e0a9ea1492adec1ecfc284503f62dd833&','https://cdn.discordapp.com/attachments/1102239223681130516/1210206748489683014/robserver.gif?ex=65e9b7dd&is=65d742dd&hm=5763e250e2909d6e9e0c5d5e3672924d84e476983da31a1bd2fbab0d22becd5b&','https://cdn.discordapp.com/attachments/1139566233855987824/1210208418753683567/vesav.gif?ex=65e9b96b&is=65d7446b&hm=e2b0e407363e540b95eeddc4837adc921b4d756b4aa0765327268bb2f0accf24&']; //รูปใหญ่
-    const poop = ['https://cdn.discordapp.com/attachments/1102239223681130516/1210205638286643280/vb111.gif?ex=65e9b6d4&is=65d741d4&hm=b74e5b6e395ce9d62400f1615014e9994c3ddf400403aadca120baae5093106b&']; // รูปเล็ก
+    const change = ['https://cdn.discordapp.com/attachments/1065988274918797392/1219593483791368202/omserver.gif?ex=660bddf1&is=65f968f1&hm=3e8d9ea24f924531662a011aee100821be10bc6f3fb1526d13780070dd707e8a&','https://cdn.discordapp.com/attachments/1065988274918797392/1219593486513340457/robserver.gif?ex=660bddf2&is=65f968f2&hm=34adf7fe38b42564a349c3accc95d96e41b42c2e9ebb6245ff4046548c8bbe5c&','https://cdn.discordapp.com/attachments/1065988274918797392/1219593704193392670/vesav.gif?ex=660bde26&is=65f96926&hm=eb21da447ad21536f4e91f3eb51d40e4337fa8b433e41ab8779a7626d87f49a3&']; //รูปใหญ่
+    const poop = ['https://cdn.discordapp.com/attachments/1065988274918797392/1219593816382640238/vb111.gif?ex=660bde40&is=65f96940&hm=ae15af44aa33e71cc9ab4e16a30640b71b02b4dabaef9986117db0aab37c35a4&']; // รูปเล็ก
     const change2 = ['ติดต่อสอบถาม DM','รับเติม ไนโตร จ้าาา','IG : gxmummy_2']; // ชื่อสลับ
     const yyyt = ['Nitro Shop']; // ชื่อ button1
     const ddds = ['https://discord.gg/6zQHtmzzVT']; // ลิ้ง button1
